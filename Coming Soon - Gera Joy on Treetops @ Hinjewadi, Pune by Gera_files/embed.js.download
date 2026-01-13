@@ -1,0 +1,32 @@
+var _____WB$wombat$assign$function_____=function(name){return (self._wb_wombat && self._wb_wombat.local_init && self._wb_wombat.local_init(name))||self[name];};if(!self.__WB_pmw){self.__WB_pmw=function(obj){this.__WB_source=obj;return this;}}{
+let window = _____WB$wombat$assign$function_____("window");
+let self = _____WB$wombat$assign$function_____("self");
+let document = _____WB$wombat$assign$function_____("document");
+let location = _____WB$wombat$assign$function_____("location");
+let top = _____WB$wombat$assign$function_____("top");
+let parent = _____WB$wombat$assign$function_____("parent");
+let frames = _____WB$wombat$assign$function_____("frames");
+let opens = _____WB$wombat$assign$function_____("opens");
+window.Buttonizer={v:"build-v4.9.2",c:"https://web.archive.org/web/20241104014139/https://cdn.buttonizer.io",d:!1,init:function(t){return"matchAll"in Symbol==!1?(this.initLegacy(t),!1):!this.d&&void(this.d=!0,this.s(t))},initLegacy:function(t){var i,n,e,c;this.d=!0,i=window,n=document,e=t,(c=n.createElement("script")).async=!0,c.src=i.Buttonizer.c+"/polyfill/matchAll.min.js",c.onload=function(){i.Buttonizer.s(e)},n.head.appendChild(c)},s:function(t){var i,n,e,c;i=window,n=document,e=t,(c=n.createElement("script")).async=!0,c.src=i.Buttonizer.c+"/static/"+window.Buttonizer.v+"/assets/embed.js",c.type="module",c.onload=function(){i.Buttonizer.init(e)},n.head.appendChild(c)}};
+
+}
+/*
+     FILE ARCHIVED ON 01:41:39 Nov 04, 2024 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 08:39:10 Jan 12, 2026.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  captures_list: 0.698
+  exclusion.robots: 0.022
+  exclusion.robots.policy: 0.014
+  esindex: 0.009
+  cdx.remote: 32.913
+  LoadShardBlock: 2488.139 (6)
+  PetaboxLoader3.resolve: 1257.788 (3)
+  PetaboxLoader3.datanode: 3908.06 (7)
+  load_resource: 3611.532
+*/
